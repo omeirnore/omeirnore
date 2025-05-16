@@ -1,4 +1,4 @@
-<h1>Hi, I'm Omeir, an <a href="https://www.linkedin.com/in/omeir-nore/">IT Professional</a> ☺</h1>
+<h1>Hi, I'm Omeir, an <a href="https://www.linkedin.com/in/omeir-nore/">IT,Cloud, and Cybersecurity Enthusiast</a> ☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
