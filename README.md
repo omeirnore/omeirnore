@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating Virtual Machines in the Cloud](VirtualMachine-Creation)
+  - [Creating Virtual Machines in the Cloud](https://github.com/omeirnore/VirtualMachine-Creation)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
   - [Creating Active Directory Infrastructure in Azure]()
 
