@@ -1,14 +1,20 @@
-<h1>Hi, I'm Omeir, an <a href="https://www.linkedin.com/in/omeir-nore/">IT,Cloud, and Cybersecurity Enthusiast</a> ☺</h1>
+<h1>Hi, I'm Omeir, an <a href="https://www.linkedin.com/in/omeir-nore/">IT, Cloud, and Cybersecurity Enthusiast</a> ☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/omeirnore/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](#)
-  - [osTicket: Ticket Lifecycle Examples](#)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](#)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](#)
+  - [Creating Virtual Machines in the Cloud]()
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
+  - [Creating Active Directory Infrastructure in Azure]()
+
+- <b>Active Directory</b>
+  - [Deploying and Configuring AD]()
+  - [Creating Users and Group Policy Objects]()
+
+- <b>osTicket (Help Desk Ticketing System)</b> 
+  - [Prerequisites and Installation]()
+  - [Post-Installation Configuration]()
+  - [Ticket Lifecycle Management]()
 
 <h2>🤳 Connect with me:</h2>
 
