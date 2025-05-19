@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in the Cloud](https://github.com/omeirnore/VirtualMachine-Creation)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/omeirnore/azure-network-protocols)
-  - [Creating Active Directory Infrastructure in Azure]()
+  - [Creating Active Directory Infrastructure in Azure](https://github.com/omeirnore/Creating-AD-Infrastructure)
 
 - <b>Active Directory</b>
   - [Deploying and Configuring AD]()
